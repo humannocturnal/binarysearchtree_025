@@ -100,4 +100,9 @@ public:
 			preorder(ptr->rightchild);
 		}
 	}
+
+	void postorder(Node* ptr)
+	{
+		//performs the postorder traversal of the tree
+	}
 };
